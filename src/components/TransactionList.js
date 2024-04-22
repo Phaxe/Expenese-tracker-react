@@ -1,5 +1,5 @@
 
-import { EditTransaction } from "./EditTransaction"
+
 import { Transaction } from "./Transaction"
 
 
